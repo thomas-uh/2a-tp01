@@ -1,0 +1,19 @@
+.form-control:invalid {
+  border: 3px solid #FF0000;
+  border-radius: 5px;
+}
+#error {
+  display: none;
+  margin: 20px 0;
+}
+.footing {
+  width: 100%;
+  margin: 20px 0;
+}
+.footing span {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1em;
+  font-style: italic;
+}
